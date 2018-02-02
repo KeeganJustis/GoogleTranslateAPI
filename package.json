@@ -1,0 +1,25 @@
+{
+  "name": "texttospeech",
+  "version": "1.0.0",
+  "description": "morning exercise",
+  "main": "texttospeech.js",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2",
+    "google-tts-api": "0.0.2",
+    "morgan": "^1.9.0",
+    "opn": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " node texttospeech.js"
+  },
+  "keywords": [
+    "google",
+    "text",
+    "speech"
+  ],
+  "author": "keegan justis",
+  "license": "MIT"
+}
